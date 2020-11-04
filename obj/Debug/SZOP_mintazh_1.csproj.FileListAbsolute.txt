@@ -1,0 +1,7 @@
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\obj\Debug\SZOP_mintazh_1.csprojAssemblyReference.cache
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\obj\Debug\SZOP_mintazh_1.csproj.CoreCompileInputs.cache
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\bin\Debug\SZOP_mintazh_1.exe.config
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\bin\Debug\SZOP_mintazh_1.exe
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\bin\Debug\SZOP_mintazh_1.pdb
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\obj\Debug\SZOP_mintazh_1.exe
+C:\Users\marwe\source\repos\SZOP_mintazh_1\SZOP_mintazh_1\obj\Debug\SZOP_mintazh_1.pdb
